@@ -236,7 +236,7 @@ ggsave("hw5_plot.png", plot, height = 6)
 ##### Load and Embed Figure
 
 I have embedded the above figure in the plot here:
-![Figure](C:\Users\pbp72\OneDrive\Desktop\School Programs\R\hw05-j-schaub/hw5_plot.png)
+![Figure](https://github.com/STAT545-UBC-students/hw05-j-schaub/blob/master/hw5_plot.png)
 
 ##### Observations
 
