@@ -3,9 +3,8 @@ title: "Homework 5: Factor and Figure Management"
 author: "Jessica Schaub"
 date: "October 10, 2018"
 output:
-  html_document:
-    github_document:
-    toc: yes
+  github_document:
+always_allow_html: yes
 ---
 
 ```{r setup, include=FALSE}
