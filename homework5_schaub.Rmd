@@ -214,6 +214,8 @@ Here, we can convert the previous plot to a `plotly` graph.
 ggplotly(plot)
 ```
 
+If the figure did not embed properly (i.e. the .md or .Rmd version), this is a link to an html version of the plotly graph: [link]().
+
 
 ##### Observations
 
