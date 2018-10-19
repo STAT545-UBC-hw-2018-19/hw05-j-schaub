@@ -4,7 +4,7 @@ author: "Jessica Schaub"
 date: "October 10, 2018"
 output:
   github_document:
-always_allow_html: yes
+    toc: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -211,10 +211,12 @@ Here, we can convert the previous plot to a `plotly` graph.
 
 ```{r}
 #Converting previous plot to plotly figure
-ggplotly(plot)
+plotly <- ggplotly(plot)
+#Saving file for upload
+api_create(plotly, filename = "r-docs-plotly", sharing = "public")
 ```
 
-If the figure did not embed properly (i.e. the .md or .Rmd version), this is a link to an html version of the plotly graph: [link]().
+Link to the plotly graph: [link](https://plot.ly/~j-schaub/1/#/).
 
 
 ##### Observations
