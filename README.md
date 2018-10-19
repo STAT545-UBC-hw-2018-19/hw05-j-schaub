@@ -9,4 +9,3 @@ The following files are relevant for the reviewers:
 
 - [homework5_schaub.md](https://github.com/STAT545-UBC-students/hw05-j-schaub/blob/master/homework5_schaub.md) : Contains both the code and the figures
 - [homework5_schaub.Rmd](https://github.com/STAT545-UBC-students/hw05-j-schaub/blob/master/homework5_schaub.Rmd) : Contains only the code
-- [homework5_schaub.html]() : Contains the plotly figure, which won't show up in the .md or .Rmd files
